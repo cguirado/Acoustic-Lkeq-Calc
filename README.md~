@@ -14,4 +14,3 @@ ki = kt = 0 dB
 #DONDE EL ARGUMENTO ES "interior" O "exterior" DEPENDIENDO DE DONDE SE HAYA TOMADO LAS MEDIDAS. <python3 Acustica.py exterior>
 
 #SALIDA: FICHERO TXT GENERADO CON LOS VALORES MAS DESFAVORABLES DE CADA PUNTO
-#SALIDA: Se imprimira por pantalla si cumple o no la normativa en una zona docente

@@ -1,0 +1,4 @@
+Valor limite = 63dBA
+Punto 1 LKeq: 65 dBA (El mas desfavorable de todas las mediciones en ese punto)
+Punto 2 LKeq: 74 dBA (El mas desfavorable de todas las mediciones en ese punto)
+Punto 3 LKeq: 56 dBA (El mas desfavorable de todas las mediciones en ese punto)
